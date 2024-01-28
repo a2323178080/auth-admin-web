@@ -1,0 +1,5 @@
+{
+  "READY": "READY",
+  "ACTIVE": "ACTIVE",
+  "EXPIRE": "EXPIRED"
+}

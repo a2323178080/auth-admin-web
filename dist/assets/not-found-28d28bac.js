@@ -1,0 +1,1 @@
+import{j as t,b5 as s,L as e,B as a}from"./index-b4d424f9.js";const n=()=>t(s,{status:"404",title:"404",subTitle:"抱歉，該頁面不存在。",extra:t(e,{to:"/agents",children:t(a,{type:"primary",children:"回首頁"})})});export{n as default};
